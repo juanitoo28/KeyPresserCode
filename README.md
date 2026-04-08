@@ -1,3 +1,7 @@
+![Security](https://img.shields.io/badge/Security-No%20Malicious%20Code-brightgreen)
+![Privacy](https://img.shields.io/badge/Privacy-No%20Data%20Collection-blue)
+![Safe](https://img.shields.io/badge/Safe-No%20Tracking-success)
+
 ## 🔒 Sécurité et transparence
 
 **KeyPresser Pro** est une application d’automatisation de frappes clavier conçue pour un usage personnel et professionnel. La sécurité et la transparence sont au cœur de son fonctionnement.
